@@ -122,6 +122,7 @@ APIs that will make requests to your system about an event.
 - [Recurly](https://recurly.com) - [docs](https://dev.recurly.com/page/webhooks)
 - [Segment](https://segment.com) - [docs](https://segment.com/docs/integrations/webhooks/)
 - [SendGrid](https://sendgrid.com/) - [docs](https://sendgrid.com/docs/API_Reference/Webhooks/index.html)
+- [SendItWhenever](https://sendit-whenever.com/) - [docs]([https://](https://www.sendit-whenever.com/docs)
 - [Shippable](https://shippable.com/) - [docs](http://docs.shippable.com/ci_configure/#event-triggers)
 - [Shippo](https://goshippo.com/) - [docs](https://goshippo.com/shipping-api/tracking)
 - [Shipwire](https://shipwire.com/) - [docs](https://www.shipwire.com/w/developers/webhook/)
@@ -200,6 +201,7 @@ Resources for API providers and consumers of webhooks.
 - [Requex](https://requex.me/) - Webhook testing, mocking, and automated workflows. Capture live requests, mock responses, and trigger automated and customized actions.
 - [RequestBin](http://requestb.in/) - Gives you a temporary URL that will collect and inspect requests made to it.
 - [REST Hooks](http://resthooks.org/) - A collection of patterns that treat webhooks like subscriptions.
+- [SendItWhenever](https://www.sendit-whenever.com/) - Flat-rate scheduler that fires delayed HTTP webhooks at a future time, HMAC-signed, with second-level precision.
 - [Simplehook](https://simplehook.dev/) - Receive webhooks at a stable URL with one line of code. Works for servers and AI agents.
 - [Snare](https://snare.naptownlabs.dev/) - Webhook tester with live request inspection and forwarding to Slack/Discord.
 - [Spiderhash](https://spiderhash.io/) - Webhook inspection and debugging workspace for testing inbound events and payload workflows.
